@@ -10,3 +10,6 @@
 6. Файлы .terraformrc, terraform.rc
 
 
+Hello world!
+
+
